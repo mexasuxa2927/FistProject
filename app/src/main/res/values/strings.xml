@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fist Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit_press_back_twice_message">ecit</string>
+    <string name="foods">Foods</string>
+    <string name="drinks">Drinks</string>
+    <string name="sweets">Sweets</string>
+
+</resources>

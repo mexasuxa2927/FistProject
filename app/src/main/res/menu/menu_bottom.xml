@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home_nav_bottom"
+        android:title="HOME"
+        android:icon="@drawable/home_icon_nav"
+
+        >
+
+    </item>
+
+    <item android:id="@+id/order_nav_bottom"
+        android:title="SEARCH"
+        android:icon="@drawable/order_icon_nav"
+
+        ></item>
+    <item android:id="@+id/noti_nav_bottom"
+        android:title="NOTI"
+        android:icon="@drawable/notifications_icon_nav">
+
+    </item>
+
+</menu>

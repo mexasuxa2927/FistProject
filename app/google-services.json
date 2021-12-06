@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110026593018",
+    "project_id": "fist-project-e1cee",
+    "storage_bucket": "fist-project-e1cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110026593018:android:8cbddcfd5d076e53f3ef43",
+        "android_client_info": {
+          "package_name": "com.example.fistproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110026593018-5nlecsgdcsc1n48um2p3pmta1shcufgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WCaIMi9ihuGN-BG-uIVruAfu1mRCHVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110026593018-5nlecsgdcsc1n48um2p3pmta1shcufgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
